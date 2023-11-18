@@ -15,3 +15,5 @@ console.log(`Nombre: ${name}`)
 console.log(`Precio: $${price}`)
 console.log(`Categoría: ${category}`)
 ```
+
+
